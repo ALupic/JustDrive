@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "641785923990",
+    "firebase_url": "https://justdrive-9f663.firebaseio.com",
+    "project_id": "justdrive-9f663",
+    "storage_bucket": "justdrive-9f663.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641785923990:android:999e6519eef01f783135b7",
+        "android_client_info": {
+          "package_name": "com.example.justdrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641785923990-gd56tmon8fq5isoe8l2lvv2rhrqenpej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBCrcXfGUMYgnGMdHiJLaTfOFdvFwLZWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641785923990-gd56tmon8fq5isoe8l2lvv2rhrqenpej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
